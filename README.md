@@ -44,3 +44,12 @@ Hey there! Here's a collaborative compiled collection of resources to learn Pyth
 - [Krish Naik's MongoDB Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
 #### Books
 - Flask Web Development by Miguel Grinberg, *O'Reilly Media*
+
+## Miscellaneous
+- [Official Python Documentation](https://www.python.org/doc/)
+- Subreddits: [r/python](https://www.reddit.com/r/Python/), [r/learnpython](https://www.reddit.com/r/learnpython/)
+- Blog: [Real Python](https://realpython.com/)
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- Online IDE: [Repl.it](https://replit.com/)
+- IDE: [PyCharm](https://www.jetbrains.com/pycharm/)
+- IDE: [Visual Studio Code Python Documentation & Install guide](https://code.visualstudio.com/docs/languages/python)
