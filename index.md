@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# Python Learning Resources
+Hey there! Here's a collaborative compiled collection of resources to learn Python and different applications and fields where Python is applied!
 
-You can use the [editor on GitHub](https://github.com/outoflaksh/Python-Learning-Resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Submit a resource](https://github.com/outoflaksh/Python-Learning-Resources/issues/new)
+## Table of Contents:
+- [YouTube Channels](#youtube-channels)
+- [Courses](#courses)
+- [YouTube Courses](#youtube-courses-playlists-videos-etc)
+- [Machine Learning](#machine-learning--data-science)
+- [Web Dev](#web-development)
+- [Miscellaneous](#miscellaneous)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## YouTube Channels
+- [Tech with Tim](https://www.youtube.com/c/TechWithTim)
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+- [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)
+- [Telusko](https://www.youtube.com/c/Telusko)
+- [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Courses
+- [Udemy's Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
+- [Coursera](https://www.coursera.org/courses?query=python)
+- [Codecademy](https://www.codecademy.com/learn/learn-python-3)
 
-```markdown
-Syntax highlighted code block
+## YouTube Courses (Playlists, videos, etc)
+- [Programming with Mosh (6hr)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [freeCodeCamp (4.5hr)](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [edureka! (12hr)](https://www.youtube.com/watch?v=WGJJIrtnfpk)
+- [Telusko (playlist)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
 
-# Header 1
-## Header 2
-### Header 3
+## Machine Learning & Data Science
+- [Andrew Ng's Machine Learning Course (Coursera) by Stanford University](https://www.coursera.org/learn/machine-learning)
+- [Elements of AI (Website)](https://www.elementsofai.com/)
+- [Sentdex's ML Playlist (YouTube)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- [Tech with Tim's Video Course (YouTube)](https://www.youtube.com/watch?v=WFr2WgN9_xE)
 
-- Bulleted
-- List
+#### Deep Learning
+- [Deep Learning Specialization (Coursera) by Andrew Ng (5 courses)](https://www.coursera.org/specializations/deep-learning)
+- [Sentdex's Deep Learning Playlist (YouTube)](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
-1. Numbered
-2. List
+#### YouTube Channels
+- [sentdex](https://www.youtube.com/c/sentdex)
+- [Tech with Tim](https://www.youtube.com/c/TechWithTim)
+- [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
-**Bold** and _Italic_ and `Code` text
+#### Books
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, *O'Reilly Media*
 
-[Link](url) and ![Image](src)
-```
+## Web Development
+- [Django Full Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+- [freeCodeCamp's Django Course](https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/)
+- [Tech with Tim's Flask Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+- [Krish Naik's MongoDB Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
+#### Books
+- Flask Web Development by Miguel Grinberg, *O'Reilly Media*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/outoflaksh/Python-Learning-Resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Miscellaneous
+- [Official Python Documentation](https://www.python.org/doc/)
+- Subreddits: [r/python](https://www.reddit.com/r/Python/), [r/learnpython](https://www.reddit.com/r/learnpython/)
+- Blog: [Real Python](https://realpython.com/)
+- [Python Cheatsheet](https://www.pythoncheatsheet.org/)
+- Online IDE: [Repl.it](https://replit.com/)
+- IDE: [PyCharm](https://www.jetbrains.com/pycharm/)
+- IDE: [Visual Studio Code Python Documentation & Install guide](https://code.visualstudio.com/docs/languages/python)
