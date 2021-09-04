@@ -14,7 +14,7 @@ Hey there! Here's a collaborative compiled collection of resources to learn Pyth
 - [Coursera](https://www.coursera.org/courses?query=python)
 - [Codecademy](https://www.codecademy.com/learn/learn-python-3)
 
-## Youtube Courses (Playlists, videos, etc)
+## YouTube Courses (Playlists, videos, etc)
 - [Programming with Mosh (6hr)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [freeCodeCamp (4.5hr)](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [edureka! (12hr)](https://www.youtube.com/watch?v=WGJJIrtnfpk)
@@ -22,12 +22,13 @@ Hey there! Here's a collaborative compiled collection of resources to learn Pyth
 
 ## Machine Learning & Data Science
 - [Andrew Ng's Machine Learning Course (Coursera) by Stanford University](https://www.coursera.org/learn/machine-learning)
-- [Elements of AI](https://www.elementsofai.com/)
+- [Elements of AI (Website)](https://www.elementsofai.com/)
 - [Sentdex's ML Playlist (YouTube)](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-- [Tech with Tim's Video Course](https://www.youtube.com/watch?v=WFr2WgN9_xE)
+- [Tech with Tim's Video Course (YouTube)](https://www.youtube.com/watch?v=WFr2WgN9_xE)
+
 #### Deep Learning
-- [Deep Learning Specialization by Andrew Ng (5 courses)](https://www.coursera.org/specializations/deep-learning)
-- [Sentdex's Deep Learning](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
+- [Deep Learning Specialization (Coursera) by Andrew Ng (5 courses)](https://www.coursera.org/specializations/deep-learning)
+- [Sentdex's Deep Learning Playlist (YouTube)](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
 #### YouTube Channels
 - [sentdex](https://www.youtube.com/c/sentdex)
