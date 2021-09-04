@@ -1,5 +1,13 @@
 # Python Learning Resources
 Hey there! Here's a collaborative compiled collection of resources to learn Python and different applications and fields where Python is applied!
+## Table of Contents:
+- [YouTube Channels](#youtube-channels)
+- [Courses](#courses)
+- [YouTube Courses](#youtube-courses-playlists-videos-etc)
+- [Machine Learning](#machine-learning--data-science)
+- [Web Dev](#web-development)
+- [Miscellaneous](#miscellaneous)
+
 
 ## YouTube Channels
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim)
