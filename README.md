@@ -1,5 +1,7 @@
 # Python Learning Resources
 Hey there! Here's a collaborative compiled collection of resources to learn Python and different applications and fields where Python is applied!
+
+[Submit a resource](https://github.com/outoflaksh/Python-Learning-Resources/issues/new)
 ## Table of Contents:
 - [YouTube Channels](#youtube-channels)
 - [Courses](#courses)
