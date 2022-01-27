@@ -19,13 +19,14 @@ Hey there! Here's a collaborative compiled collection of resources to learn Pyth
 - [Telusko](https://www.youtube.com/c/Telusko)
 - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
 
-## Courses
+## Premium Courses (paid)
 - [Udemy's Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 - [Coursera](https://www.coursera.org/courses?query=python)
 - [Codecademy](https://www.codecademy.com/learn/learn-python-3)
 
-## YouTube Courses (Playlists, videos, etc)
+## Free YouTube Courses (Playlists, videos, etc)
 - [Programming with Mosh (6hr)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+- [Tech with Tim's Beginner Python Course (playlist)](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)
 - [freeCodeCamp (4.5hr)](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [edureka! (12hr)](https://www.youtube.com/watch?v=WGJJIrtnfpk)
 - [Telusko (playlist)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
@@ -50,6 +51,7 @@ Hey there! Here's a collaborative compiled collection of resources to learn Pyth
 
 ## Web Development
 - [Django Full Stack Web Development Bootcamp (Udemy)](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+- [Comprehensive FastAPI + PostgreSQL API Development course (freeCodeCamp)](https://www.youtube.com/watch?v=0sOvCWFmrtA)
 - [freeCodeCamp's Django Course](https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/)
 - [Tech with Tim's Flask Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - [Krish Naik's MongoDB Tutorial (YouTube playlist)](https://www.youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I)
